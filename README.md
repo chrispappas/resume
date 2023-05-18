@@ -6,5 +6,6 @@ Currently this is just a fairly raw export from Google Docs, excuse the formatti
 
 ## My resume
 
-[Google Docs Exported HTML Resume](public/index.html)
-[Markdown Formatted Resume](public/resume.md)
+- [chrispappas.dev](https://chrispappas.dev)
+- [Google Docs Exported HTML Resume](public/index.html)
+- [Markdown Formatted Resume](public/resume.md)
