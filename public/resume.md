@@ -8,6 +8,7 @@ problems**, and using my wide range of skills and experience as a **"force multi
 - [linkedin.com/in/chris-pappas](https://linkedin.com/in/chris-pappas)
 - [github.com/chrispappas](https://github.com/chrispappas)
 - [chrispappas.dev](https://github.com/chrispappas)
+- [PDF Format Resume](Chris_Pappas_Resume_May_2023.pdf)
 - Based in Winnipeg, Canada
 
 ## TOP SKILLS

@@ -8,6 +8,7 @@ Currently, this is just a fairly raw export from Google Docs, excuse the formatt
 
 - [chrispappas.dev](https://chrispappas.dev)
 - [Google Docs Exported HTML Resume](public/index.html)
+- [PDF Format](public/Chris_Pappas_Resume_May_2023.pdf)
 
 ---
 # Chris Pappas
@@ -20,6 +21,7 @@ problems**, and using my wide range of skills and experience as a **"force multi
 - [linkedin.com/in/chris-pappas](https://linkedin.com/in/chris-pappas)
 - [github.com/chrispappas](https://github.com/chrispappas)
 - [chrispappas.dev](https://github.com/chrispappas)
+- [PDF Format Resume](public/Chris_Pappas_Resume_May_2023.pdf)
 - Based in Winnipeg, Canada
 
 ## TOP SKILLS
