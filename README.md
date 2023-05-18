@@ -1,8 +1,8 @@
-# Chris Pappas
+# Chris Pappas - Resume
 
 This is my resume, deployed automatically to Cloudflare Pages on pushes to `main` in this repo.
 
-Currently this is just a fairly raw export from Google Docs, excuse the formatting and terrible markup!
+Currently, this is just a fairly raw export from Google Docs, excuse the formatting and terrible markup!
 
 ## Links
 
@@ -17,10 +17,10 @@ problems**, and using my wide range of skills and experience as a **"force multi
 
 ## CONTACT INFO
 
-- Winnipeg, Canada
-- linkedin.com/in/chris-pappas
-- github.com/chrispappas
-- chrispappas.dev
+- [linkedin.com/in/chris-pappas](https://linkedin.com/in/chris-pappas)
+- [github.com/chrispappas](https://github.com/chrispappas)
+- [chrispappas.dev](https://github.com/chrispappas)
+- Based in Winnipeg, Canada
 
 ## TOP SKILLS
 
